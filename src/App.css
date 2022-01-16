@@ -1,0 +1,8 @@
+.App {
+    padding-top: 41px;
+    margin: 0 100px 0 100px;
+}
+
+.main-content {
+    display: flex;
+}

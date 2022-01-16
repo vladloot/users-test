@@ -1,0 +1,14 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.title {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    color: #FFFFFF;
+    margin-bottom: 30px;
+}

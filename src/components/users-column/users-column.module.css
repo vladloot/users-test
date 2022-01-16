@@ -1,0 +1,12 @@
+.userWrapper {
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-style: normal;
+}
+
+.title {
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    color: #FFFFFF;
+}

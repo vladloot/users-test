@@ -1,0 +1,7 @@
+.employeesWrapper {
+    width: 50%;
+    border-right: 1px solid #FFFFFF;
+    display: flex;
+    justify-content: space-around;
+}
+
