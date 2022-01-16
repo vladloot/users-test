@@ -2,7 +2,7 @@ import React, {FC} from "react";
 import {useSelector} from "react-redux";
 import {rootReducerType} from "../../store/store";
 import {usersType} from "../../store/action/action-creators";
-import {BirthdayUsersList} from "./users-for-month/birthday-users-list";
+import {BirthdayUsersList} from "./birthday-users-list/birthday-users-list";
 import {sortUsersByMonth} from "../../utils/sort-users-by-mounth";
 import uuid from 'react-native-uuid';
 
